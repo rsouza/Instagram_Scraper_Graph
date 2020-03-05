@@ -1,3 +1,5 @@
+[Blog Post](https://towardsdatascience.com/using-network-science-to-explore-hashtag-culture-on-instagram-1f7917078e0)
+
 There are two Python files here, each containing a custom Instagram class.
 
 You will need to have an Instagram account to use InstagramScraper()
